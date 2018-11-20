@@ -87,7 +87,7 @@ public class BosoNnlpTest {
 	 */
 	@Test
 	public void time() throws UnirestException {
-		System.out.println(Bosonnlp.time("2013年二月二十八日下午四点三十分二十九秒"));
+		System.out.println(Bosonnlp.time("20一八年二月二十八日下午四点三十分二十九秒"));
 		//{"type":"timestamp","timestamp":"2013-02-28 16:30:29"}
 	}
 	/*
