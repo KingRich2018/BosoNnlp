@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/bin/jackson-databind-2.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/commons-lang-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/unirest-java-1.4.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/unirest-java-1.4.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/hamcrest-core-1.3.rc2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/httpcore-4.4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/httpclient-4.3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jackson-core-2.9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/httpasyncclient-4.0-beta4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/unirest-java-1.4.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/json-20171018.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/httpcore-nio-4.4.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/bin/jackson-annotations-2.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
