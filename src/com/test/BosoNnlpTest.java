@@ -15,7 +15,7 @@ public class BosoNnlpTest {
 
 	@Test
 	public void sentiment() throws UnirestException {
-		String [] data =  new String[]{"中国共产党", "美好的世界"};
+		String [] data =  new String[]{"中国共产党好", "美好的世界"};
 		System.out.println(Bosonnlp.determine(TypeBean.SENTIMENT.getDesc(),data));
 		//第一个值为非负面概率，第二个值为负面概率，两个值相加和为 1
 		//[[0.6519134382562579,0.34808656174374203],[0.92706110187413,0.07293889812586994]]
